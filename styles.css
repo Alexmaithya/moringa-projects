@@ -1,0 +1,29 @@
+body{
+    background-color:green;
+    color: rgb(255, 255, 255);
+}
+img{
+    width: 800px;
+    height: 500px;
+    padding-left: 250px;
+    
+    border: black;
+}
+h1{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+
+}
+h2{
+    text-align: center;
+    font-family: 'Fredoka One', cursive
+    font-weight: lighter;
+
+}
+nav ul li{
+    display:inline-block;
+    color: black;
+    float: left;
+    margin: 0px;
+   padding: 14px 16px;
+
